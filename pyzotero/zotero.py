@@ -6,6 +6,12 @@ zotero.py
 Created by Stephan Hügel on 2011-02-28
 Copyright Stephan Hügel
 
+--Edited by Stephen Margheim
+--Cleaning up and trimming down for ZotQuery
+--Removing dependency on `pytz` and `requests`
+--Using only Read API calls
+--Built for @deanishe's alfred-workflow library
+
 This file is part of Pyzotero.
 
 Pyzotero is free software: you can redistribute it and/or modify
